@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="15" fill="#111317"/>
+  <path d="M9 17V9h8M47 9h8v8M55 47v8h-8M17 55H9v-8" fill="none" stroke="#8592ff" stroke-linecap="round" stroke-width="2"/>
+  <text x="32" y="39" fill="#f7f8fa" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="-1.5" text-anchor="middle">ASM</text>
+  <circle cx="52" cy="47" r="2.5" fill="#8592ff"/>
+</svg>
